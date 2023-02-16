@@ -1,0 +1,15 @@
+.imglog{
+	max-width: 100px;
+}
+.listfooter{
+	background-color:#3F51B5;
+}
+
+.masinfo{
+	background-color: blue;
+}
+
+.masinfo:hover{
+	background-color: red;
+
+}
